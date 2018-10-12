@@ -1,6 +1,6 @@
 {
   "name": "array-toggle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Return an Array with a value included/removed, with optional forcing.",
   "main": "arrayToggle.ts",
   "scripts": {

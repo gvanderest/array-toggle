@@ -8,6 +8,8 @@ the value stays present or not.
 
 Example:
 ```typescript
+import arrayToggle from "array-toggle";
+
 const list = [1, 2, 3];
 const toggled = arrayToggle(list, 2);
 
@@ -21,6 +23,8 @@ such as a checkbox being checked or not.
 
 Example:
 ```typescript
+import arrayToggle from "array-toggle";
+
 const list = [1, 2, 3];
 const toggled = arrayToggle(list, 2, true);
 
