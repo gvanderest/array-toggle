@@ -1,10 +1,10 @@
 {
   "name": "array-toggle",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Return an Array with a value included/removed, with optional forcing.",
   "main": "arrayToggle.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node_modules/jest/bin/jest.js"
   },
   "repository": "github:gvanderest/array-toggle",
   "keywords": [
@@ -12,5 +12,11 @@
     "toggle"
   ],
   "author": "Guillaume VanderEst <gvanderest@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^23.3.5",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
+    "typescript": "^3.1.3"
+  }
 }
