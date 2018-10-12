@@ -1,0 +1,15 @@
+{
+  "name": "array-toggle",
+  "version": "1.0.0",
+  "description": "Return an Array with a value included/removed, with optional forcing.",
+  "main": "arrayToggle.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "toggle"
+  ],
+  "author": "Guillaume VanderEst <gvanderest@gmail.com>",
+  "license": "ISC"
+}
